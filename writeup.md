@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image2]: ./write-up-image/blur-gray-image.jpeg "Blured Image"
 [image3]: ./write-up-image/edges-image.jpeg "Edges Image"
 [image4]: ./write-up-image/masked-image.jpeg "Masked Image"
-[image5]: ./write-up-imaga/line-image.jpeg "Lined Image"
+[image5]: ./write-up-image/line-image.jpeg "Lined Image"
 
 ---
 
